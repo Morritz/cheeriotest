@@ -1,0 +1,10 @@
+{
+  "name": "cheeriotest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^2.1.1",
+    "cheerio": "0.1.1"
+  }
+}
